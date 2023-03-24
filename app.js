@@ -7,7 +7,7 @@ let imgContainer = document.querySelector("#imageContainer");
 let img = document.querySelector("#img");
 let feedBack = document.createElement("p");
 
-// Exercise 2 Section
+// Exercises 2-4 Section
 console.log("EXERCISE 2:\n==========\n");
 
 const apiKey = "api_key=4S3qelCPd4CXeS1I0PHxE1IWV2LWEUCY";
